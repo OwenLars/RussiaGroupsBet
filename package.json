@@ -1,0 +1,31 @@
+{
+  "name": "russiabets",
+  "version": "1.0.0",
+  "description": "DApp for beating the groups of Russia 2018",
+  "main": "truffle.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OwenLars/RussiaGroupsBet.git"
+  },
+  "keywords": [
+    "DApp",
+    "Smart",
+    "Contrats",
+    "Bet",
+    "Russia",
+    "2018"
+  ],
+  "author": "OwenLars",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OwenLars/RussiaGroupsBet/issues"
+  },
+  "homepage": "https://github.com/OwenLars/RussiaGroupsBet#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "chai-as-promised": "^7.1.1"
+  }
+}
